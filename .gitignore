@@ -101,4 +101,4 @@ ENV/
 .mypy_cache/
 
 # jupyter
-.ipynb_checkpoints
+.ipynb_checkpoints/
